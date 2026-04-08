@@ -20,8 +20,8 @@ The results of the model provide an optimal production plan that ensures maximum
 
 #OUTPUT:
 
-<img width="642" height="517" alt="Image" src="https://github.com/user-attachments/assets/c347481c-8fca-4f4f-b9e5-823d052e4bd2" />
-
 <img width="489" height="388" alt="Image" src="https://github.com/user-attachments/assets/b7622f8a-5222-4b2f-a56b-c3b07c492a9e" />
 
 <img width="633" height="605" alt="Image" src="https://github.com/user-attachments/assets/4778ef5a-74d8-464f-aac0-439660d2dd66" />
+
+<img width="642" height="517" alt="Image" src="https://github.com/user-attachments/assets/c347481c-8fca-4f4f-b9e5-823d052e4bd2" />
